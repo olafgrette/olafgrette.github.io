@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Hi, I'm Olaf.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm currently a Senior Software Development Engineer at AWS EC2, specializing in analytics on network device metrics.
+We use these metrics to resolve operational issues, inform business decisions, and improve the customer experience. 
 
+You can [view my resume here (pdf)](https://media.githubusercontent.com/media/olafgrette/resume/refs/heads/main/historical_pdfs/2025-07-09_olaf_grette_resume.pdf)
 
-[jekyll-organization]: https://github.com/jekyll
+I like many things.
+
