@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About
-
 Hi, I'm Olaf.
 
 I'm currently a Senior Software Development Engineer at AWS EC2, specializing in analytics on network device metrics.
