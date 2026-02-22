@@ -10,10 +10,7 @@ author:
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
-description: >
- Personal site and blog of Olaf Grette: software engineer and life long tinkerer.
- I promise to sometimes make posts. Views and opinions expressed within are my own
- and don't reflect the views of my employer, management chain, god himself, and so on.
+description: Personal site of Olaf Grette. Views are my own.
 
 # Build settings
 # --------------

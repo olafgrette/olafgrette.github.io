@@ -6,9 +6,11 @@ permalink: /about/
 
 Hi, I'm Olaf.
 
-I was previously a Senior Software Development Engineer at AWS EC2, specializing in analytics on network device metrics.
+I'm a Senior Production Engineer at Meta, working on capacity, efficiency, and reliability of Blob Storage.
+
+Previously, I was a Senior Software Development Engineer at AWS EC2, specializing in analytics on network device metrics.
 
 You can [view my resume here (pdf)](https://resume.grette.org/)
 
-I like many things.
+Outside of work: motorbikes, cars, fitness and health optimization, games of all kinds (video, board, card), and sports.
 

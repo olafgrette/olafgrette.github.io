@@ -4,3 +4,4 @@
 
 layout: home
 ---
+Software engineer working on infrastructure and reliability. Occasionally I write things here.
