@@ -76,9 +76,6 @@ minima:
 #       * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
 #       * url      Full URL of social profile.
   social_links:
-    - title: olaf@grette.org
-      icon: envelope
-      url: "mailto:olaf@grette.org"
     - title: olafgrette@github
       icon: github
       url: "https://github.com/olafgrette"
