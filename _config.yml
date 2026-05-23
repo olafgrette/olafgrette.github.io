@@ -60,7 +60,8 @@ minima:
   nav_pages:
     - about.md
     - resume.md
-    - now.md    
+    - now.md
+    - uses.md    
 #
 #   Set to `true` to show excerpts on the homepage.
   show_excerpts: true
