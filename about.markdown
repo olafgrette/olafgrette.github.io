@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I'm Olaf.
 
-I'm a Senior Production Engineer at Meta, working on capacity, efficiency, and reliability of Blob Storage.
+I'm a Senior Production Engineer at Meta, formerly working on Blob Storage capacity and relibaility, but now working on ...Cloud Infrastructure?
 
 Previously, I was a Senior Software Development Engineer at AWS EC2, specializing in analytics on network device metrics.
 
