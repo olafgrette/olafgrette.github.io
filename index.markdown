@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Software engineer working on infrastructure and reliability. (resume here)[https://resume.grette.org] Occasionally I write things here.
+Software engineer working on infrastructure and reliability. [Resume here](https://resume.grette.org). Occasionally I write things here.
