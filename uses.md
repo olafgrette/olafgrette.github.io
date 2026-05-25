@@ -28,9 +28,9 @@ Day-to-day tools. Inspired by [uses.tech](https://uses.tech/).
 
 ## Software
 ### OS
-- Arch Linux on the desktop
+- Arch Linux on the desktop (btw)
 - MacOS / iOS on the appropriate Apple devices
-- Whatever Linux distro my employer has us run on dev sever machines. 
+- Whatever Linux distro my employer has us run on dev server machines. 
 
 ### Terminal & shell
 - Ghostty
