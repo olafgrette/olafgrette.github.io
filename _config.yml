@@ -84,6 +84,12 @@ minima:
     - title: olafgrette@linkedin
       icon: linkedin
       url: "https://www.linkedin.com/in/olafgrette/"
+    - title: olafgrette@instagram
+      icon: instagram
+      url: "https://www.instagram.com/olafgrette/"
+    - title: olafgrette@threads
+      icon: threads
+      url: "https://www.threads.com/@olafgrette"
 #     - title: Jekyll at X (formerly Twitter)
 #       icon: x-twitter
 #       url: "https://x.com/jekyllrb"
